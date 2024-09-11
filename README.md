@@ -1,5 +1,6 @@
 # 📚 Sanjay AI
 [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-url)
+
 An intelligent and user-friendly tool designed to fetch and summarize research papers from **arXiv** based on a given topic. The system provides a **question-answering (QA)** feature that generates answers to user queries by analyzing research papers and synthesizing relevant information. Built using **Streamlit**, **Sentence Transformers**, and **Transformers** models, this tool aims to assist researchers, students, and professionals in efficiently exploring and utilizing scientific literature.
 
 ## 🚀 Features
